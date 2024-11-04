@@ -1,2 +1,2 @@
-# Repo-remoto
-Exemplo de repositório remoto depois do clone
+# Repo-local
+Exemplo de repositório local depois do clone
